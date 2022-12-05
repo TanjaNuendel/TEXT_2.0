@@ -10,6 +10,17 @@
   </imports>
   <registry>
     <language id="c72da2b9-7cce-4447-8389-f407dc1158b7" name="jetbrains.mps.lang.structure">
+      <concept id="3348158742936976480" name="jetbrains.mps.lang.structure.structure.EnumerationMemberDeclaration" flags="ng" index="25R33">
+        <property id="1421157252384165432" name="memberId" index="3tVfz5" />
+        <property id="672037151186491528" name="presentation" index="1L1pqM" />
+      </concept>
+      <concept id="3348158742936976479" name="jetbrains.mps.lang.structure.structure.EnumerationDeclaration" flags="ng" index="25R3W">
+        <reference id="1075010451642646892" name="defaultMember" index="1H5jkz" />
+        <child id="3348158742936976577" name="members" index="25R1y" />
+      </concept>
+      <concept id="1082978164218" name="jetbrains.mps.lang.structure.structure.DataTypeDeclaration" flags="ng" index="AxPO6">
+        <property id="7791109065626895363" name="datatypeId" index="3F6X1D" />
+      </concept>
       <concept id="1169125787135" name="jetbrains.mps.lang.structure.structure.AbstractConceptDeclaration" flags="ig" index="PkWjJ">
         <property id="6714410169261853888" name="conceptId" index="EcuMT" />
         <property id="4628067390765907488" name="conceptShortDescription" index="R4oN_" />
@@ -195,6 +206,72 @@
     <property role="R5$K7" value="true" />
     <property role="R4oN_" value="is extended by whitespace, optional, plainnonterminal, fixterminal, arbitrary. is concept that brings most of the meta language " />
     <ref role="1TJDcQ" node="7HlnNJ953oV" resolve="ParentSymbol" />
+  </node>
+  <node concept="1TIwiD" id="7HlnNJct18X">
+    <property role="EcuMT" value="8887114150123409981" />
+    <property role="TrG5h" value="RuleReference" />
+    <property role="34LRSv" value="pnt" />
+    <property role="R4oN_" value="a non-terminal with one rule reference" />
+    <ref role="1TJDcQ" node="7HlnNJ953pi" resolve="Symbol" />
+    <node concept="1TJgyj" id="7HlnNJct18Y" role="1TKVEi">
+      <property role="IQ2ns" value="8887114150123409982" />
+      <property role="20kJfa" value="referenced_rule" />
+      <property role="20lbJX" value="fLJekj4/_1" />
+      <ref role="20lvS9" node="7HlnNJ953pc" resolve="Rule" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7HlnNJct190">
+    <property role="EcuMT" value="8887114150123409984" />
+    <property role="TrG5h" value="ValueBinding" />
+    <property role="R4oN_" value="Basic type, to be extended with elementbind and constantbind" />
+    <property role="R5$K7" value="true" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+  </node>
+  <node concept="1TIwiD" id="7HlnNJct193">
+    <property role="EcuMT" value="8887114150123409987" />
+    <property role="TrG5h" value="WhiteSpace" />
+    <property role="34LRSv" value="ws(" />
+    <property role="R4oN_" value="whitespace contains a letter-based name, is terminal and has a specific role assigned" />
+    <ref role="1TJDcQ" node="7HlnNJ953pi" resolve="Symbol" />
+    <node concept="1TJgyi" id="7HlnNJct194" role="1TKVEl">
+      <property role="IQ2nx" value="8887114150123409988" />
+      <property role="TrG5h" value="role" />
+    </node>
+  </node>
+  <node concept="25R3W" id="7HlnNJct197">
+    <property role="3F6X1D" value="8887114150123409991" />
+    <property role="TrG5h" value="WhiteSpaceRole" />
+    <ref role="1H5jkz" node="7HlnNJct198" resolve="_0" />
+    <node concept="25R33" id="7HlnNJct198" role="25R1y">
+      <property role="3tVfz5" value="8887114150123409992" />
+      <property role="TrG5h" value="_0" />
+      <property role="1L1pqM" value="empty" />
+    </node>
+    <node concept="25R33" id="7HlnNJct199" role="25R1y">
+      <property role="3tVfz5" value="8887114150123409993" />
+      <property role="TrG5h" value="_1" />
+      <property role="1L1pqM" value="space" />
+    </node>
+    <node concept="25R33" id="7HlnNJct19c" role="25R1y">
+      <property role="3tVfz5" value="8887114150123409996" />
+      <property role="TrG5h" value="_2" />
+      <property role="1L1pqM" value="indent" />
+    </node>
+    <node concept="25R33" id="7HlnNJct19g" role="25R1y">
+      <property role="3tVfz5" value="8887114150123410000" />
+      <property role="TrG5h" value="_3" />
+      <property role="1L1pqM" value="blockstart" />
+    </node>
+    <node concept="25R33" id="7HlnNJct19l" role="25R1y">
+      <property role="3tVfz5" value="8887114150123410005" />
+      <property role="TrG5h" value="_4" />
+      <property role="1L1pqM" value="blockend" />
+    </node>
+    <node concept="25R33" id="7HlnNJct19r" role="25R1y">
+      <property role="3tVfz5" value="8887114150123410011" />
+      <property role="TrG5h" value="_5" />
+      <property role="1L1pqM" value="statement" />
+    </node>
   </node>
 </model>
 
