@@ -81,6 +81,7 @@
     <node concept="1TJgyj" id="7HlnNJ953oG" role="1TKVEi">
       <property role="IQ2ns" value="8887114150066796076" />
       <property role="20kJfa" value="property" />
+      <ref role="20lvS9" to="tpce:f_TJgxF" resolve="PropertyDeclaration" />
     </node>
   </node>
   <node concept="1TIwiD" id="7HlnNJ953oI">
