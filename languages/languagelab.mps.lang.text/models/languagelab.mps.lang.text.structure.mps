@@ -107,6 +107,20 @@
     <node concept="PrWs8" id="7HlnNJ953oQ" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
+    <node concept="1TJgyj" id="Ol8pJv5WMQ" role="1TKVEi">
+      <property role="IQ2ns" value="942696650350513334" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="start" />
+      <property role="20lbJX" value="fLJekj4/_1" />
+      <ref role="20lvS9" node="7HlnNJct18X" resolve="RuleReference" />
+    </node>
+    <node concept="1TJgyj" id="Ol8pJv5X0H" role="1TKVEi">
+      <property role="IQ2ns" value="942696650350514221" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="rules" />
+      <property role="20lbJX" value="fLJekj6/_1__n" />
+      <ref role="20lvS9" node="7HlnNJ953pc" resolve="Rule" />
+    </node>
   </node>
   <node concept="1TIwiD" id="7HlnNJ953oS">
     <property role="EcuMT" value="8887114150066796088" />
@@ -139,10 +153,12 @@
     <property role="TrG5h" value="NonTerminal" />
     <property role="34LRSv" value="nt" />
     <property role="R4oN_" value="a non terminal within the given language, has maximum 1 binding" />
+    <ref role="1TJDcQ" node="7HlnNJct18X" resolve="RuleReference" />
     <node concept="1TJgyj" id="7HlnNJ953oY" role="1TKVEi">
       <property role="IQ2ns" value="8887114150066796094" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
       <property role="20kJfa" value="binding" />
+      <ref role="20lvS9" node="7HlnNJ953p5" resolve="PropertyBinding" />
     </node>
   </node>
   <node concept="1TIwiD" id="7HlnNJ953p2">
@@ -199,6 +215,19 @@
     <node concept="PrWs8" id="7HlnNJ953pf" role="PzmwI">
       <ref role="PrY4T" to="tpck:3fifI_xCcJN" resolve="ScopeProvider" />
     </node>
+    <node concept="1TJgyj" id="Ol8pJv66AY" role="1TKVEi">
+      <property role="IQ2ns" value="942696650350553534" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="vbind" />
+      <ref role="20lvS9" node="7HlnNJct190" resolve="ValueBinding" />
+    </node>
+    <node concept="1TJgyj" id="Ol8pJv66Ne" role="1TKVEi">
+      <property role="IQ2ns" value="942696650350554318" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="rhs" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" node="7HlnNJ953p9" resolve="RightHandSide" />
+    </node>
   </node>
   <node concept="1TIwiD" id="7HlnNJ953pi">
     <property role="EcuMT" value="8887114150066796114" />
@@ -236,6 +265,7 @@
     <node concept="1TJgyi" id="7HlnNJct194" role="1TKVEl">
       <property role="IQ2nx" value="8887114150123409988" />
       <property role="TrG5h" value="role" />
+      <ref role="AX2Wp" node="7HlnNJct197" resolve="WhiteSpaceRole" />
     </node>
   </node>
   <node concept="25R3W" id="7HlnNJct197">
