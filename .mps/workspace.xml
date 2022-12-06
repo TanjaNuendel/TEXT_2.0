@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dccc07b0-6ceb-4071-b0a1-5d3a81919fd0" name="Changes" comment="add workspace">
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.structure.mps" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +187,20 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <SELECTED>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:e345bfe4-a7ce-41f2-aad2-23740a591142(languagelab.mps.lang.text.structure) in IdeaFile[path: C:/Users/tnuen/MPSProjects/TEXT_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.structure.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </SELECTED>
         </subPane>
       </pane>
       <pane id="FileSystem" />
