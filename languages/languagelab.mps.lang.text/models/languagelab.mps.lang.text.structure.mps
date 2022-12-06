@@ -6,6 +6,7 @@
     <devkit ref="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
   </languages>
   <imports>
+    <import index="tpce" ref="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)" />
     <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
   </imports>
   <registry>
@@ -127,9 +128,11 @@
     <property role="TrG5h" value="ElementBinding" />
     <property role="34LRSv" value=":element(" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" />
-    <node concept="1TJgyj" id="7HlnNJ953oT" role="1TKVEi">
-      <property role="IQ2ns" value="8887114150066796089" />
+    <node concept="1TJgyj" id="7zZl8lTW5AP" role="1TKVEi">
+      <property role="IQ2ns" value="8718780335865747893" />
       <property role="20kJfa" value="concept_reference" />
+      <property role="20lbJX" value="fLJekj4/_1" />
+      <ref role="20lvS9" to="tpce:f_TIwhg" resolve="ConceptDeclaration" />
     </node>
   </node>
   <node concept="1TIwiD" id="7HlnNJ953oV">
@@ -182,7 +185,7 @@
     <property role="EcuMT" value="8887114150066796102" />
     <property role="TrG5h" value="ReferenceBinding" />
     <property role="34LRSv" value=":reference(" />
-    <property role="R4oN_" value="subtype of a property binding, specificly for references to other structures" />
+    <property role="R4oN_" value="subtype of a property binding, specifically for references to other structures" />
     <ref role="1TJDcQ" node="7HlnNJ953p5" resolve="PropertyBinding" />
     <node concept="1TJgyj" id="7HlnNJ953p7" role="1TKVEi">
       <property role="IQ2ns" value="8887114150066796103" />
