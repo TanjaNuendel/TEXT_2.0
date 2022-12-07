@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="5nftotqs4yuae3vwmsos0mo49nnen64">
+  <files names="Arbitrary_Editor.java:Arbitrary_EditorBuilder_a.java:CompositeBinding_Editor.java:CompositeBinding_EditorBuilder_a.java:ConstantBinding_Editor.java:ConstantBinding_EditorBuilder_a.java:EditorAspectDescriptorImpl.java:Editor_Editor.java:Editor_EditorBuilder_a.java:ElementBinding_Editor.java:ElementBinding_EditorBuilder_a.java:NonTerminal_Editor.java:NonTerminal_EditorBuilder_a.java:Optional_Editor.java:Optional_EditorBuilder_a.java:ReferenceBinding_Editor.java:ReferenceBinding_EditorBuilder_a.java:RightHandSide_Editor.java:RightHandSide_EditorBuilder_a.java:RuleReference_Editor.java:RuleReference_EditorBuilder_a.java:Rule_Editor.java:Rule_EditorBuilder_a.java:Terminal_Editor.java:Terminal_EditorBuilder_a.java:WhiteSpace_Editor.java:WhiteSpace_EditorBuilder_a.java" />
+</product>
+

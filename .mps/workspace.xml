@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dccc07b0-6ceb-4071-b0a1-5d3a81919fd0" name="Changes" comment="add workspace">
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/languagelab.mps.lang.text.mpl" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/languagelab.mps.lang.text.mpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.constraints.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.constraints.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.editor.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.structure.mps" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +17,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="788f4895-335b-4213-ae9c-cedd5bd30ea8/r:8943c721-3fab-4582-949d-5249d0e72c2e(TempModule788f4895-335b-4213-ae9c-cedd5bd30ea8/ConsoleModel_311622132044200)">
+            <model ref="f7e49e33-6bb8-4335-bd54-ab41db8a72f1/r:4e45c819-23a9-4b79-90cf-16fe7e7183df(TempModulef7e49e33-6bb8-4335-bd54-ab41db8a72f1/ConsoleModel_284302857850800)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -38,11 +37,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="7qBSit5seNq">
-                <node concept="3balQm" id="7qBSit5seNr" role="aymYE" />
-                <node concept="2Clz$F" id="7qBSit5seNs" role="aymYO" />
-                <node concept="2_V_lH" id="7qBSit5seNt" role="1PhJh3">
-                  <ref role="2_V_lI" node="7qBSit5seNs" resolve="CommandHolder" />
+              <node concept="aymSD" id="Ol8pJv5E5n">
+                <node concept="3balQm" id="Ol8pJv5E5o" role="aymYE" />
+                <node concept="2Clz$F" id="Ol8pJv5E5p" role="aymYO" />
+                <node concept="2_V_lH" id="Ol8pJv5E5q" role="1PhJh3">
+                  <ref role="2_V_lI" node="Ol8pJv5E5p" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -135,11 +134,12 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
+      <pane id="FileSystem" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemId" value="text_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -147,13 +147,13 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:e370a96f-33fc-46f6-9458-c05a69120c38(languagelab.mps.lang.text.editor) in IdeaFile[path: C:/Users/tnuen/MPSProjects/TEXT_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.editor.mps]" />
+              <option name="myItemId" value="r:e345bfe4-a7ce-41f2-aad2-23740a591142(languagelab.mps.lang.text.structure) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.structure.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemId" value="text_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -163,19 +163,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TEXT_2.0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemId" value="text_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -183,13 +171,19 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:196d8a42-2b02-4579-9264-88517b407831(languagelab.mps.lang.text.constraints) in IdeaFile[path: C:/Users/tnuen/MPSProjects/TEXT_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.constraints.mps]" />
+              <option name="myItemId" value="r:196d8a42-2b02-4579-9264-88517b407831(languagelab.mps.lang.text.constraints) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.constraints.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemId" value="text_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -197,51 +191,22 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:e345bfe4-a7ce-41f2-aad2-23740a591142(languagelab.mps.lang.text.structure) in IdeaFile[path: C:/Users/tnuen/MPSProjects/TEXT_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.structure.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Languages" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Languages" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jetbrains" />
+              <option name="myItemId" value="r:e370a96f-33fc-46f6-9458-c05a69120c38(languagelab.mps.lang.text.editor) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.editor.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
           <SELECTED>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemId" value="text_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:196d8a42-2b02-4579-9264-88517b407831(languagelab.mps.lang.text.constraints) in IdeaFile[path: C:/Users/tnuen/MPSProjects/TEXT_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.constraints.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="FileSystem" />
       <pane id="Scope" />
     </panes>
   </component>
