@@ -3,6 +3,8 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.lang.text/languagelab.mps.lang.text.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/languagelab.mps.test.petrinetEdit.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/runtime/languagelab.mps.test.petrinetEdit.runtime.msd" folder="" />
     </projectModules>
   </component>
 </project>
