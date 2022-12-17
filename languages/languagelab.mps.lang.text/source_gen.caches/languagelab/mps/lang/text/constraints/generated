@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<product version="3" modelHash="18am8tpgmwvjcpm14ud0ulqccavysb7">
-  <files names="ConstantBinding_Constraints.java:ConstraintsAspectDescriptor.java:Editor_Constraints.java:ElementBinding_Constraints.java:NonTerminal_Constraints.java:ReferenceBinding_Constraints.java" />
+<product version="3" modelHash="37gxcwml98fvz2bjbk4vq1wrzg8tk7l">
+  <files names="ConstantBinding_Constraints.java:ConstraintsAspectDescriptor.java:Editor_Constraints.java:ElementBinding_Constraints.java:ReferenceBinding_Constraints.java" />
 </product>
 

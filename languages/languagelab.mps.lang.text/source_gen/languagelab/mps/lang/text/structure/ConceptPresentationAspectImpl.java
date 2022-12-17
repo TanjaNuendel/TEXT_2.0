@@ -111,7 +111,7 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
       case LanguageConceptSwitch.RightHandSide:
         if (props_RightHandSide == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
-          cpb.shortDesc("can ");
+          cpb.shortDesc("can be expanded to a number of rhs children");
           cpb.rawPresentation("RightHandSide");
           props_RightHandSide = cpb.create();
         }

@@ -9,9 +9,9 @@ import org.jetbrains.mps.openapi.language.SAbstractConcept;
 import jetbrains.mps.smodel.runtime.ConceptPresentationBuilder;
 
 public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase {
-  private ConceptPresentation props_PNIdentifier;
   private ConceptPresentation props_PetriNet;
   private ConceptPresentation props_PetrinetElement;
+  private ConceptPresentation props_PetrinetIdentifier;
   private ConceptPresentation props_Place;
   private ConceptPresentation props_PlaceRef;
   private ConceptPresentation props_Transition;
@@ -21,12 +21,6 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
   public ConceptPresentation getDescriptor(SAbstractConcept c) {
     StructureAspectDescriptor structureDescriptor = (StructureAspectDescriptor) myLanguageRuntime.getAspect(jetbrains.mps.smodel.runtime.StructureAspectDescriptor.class);
     switch (structureDescriptor.internalIndex(c)) {
-      case LanguageConceptSwitch.PNIdentifier:
-        if (props_PNIdentifier == null) {
-          ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
-          props_PNIdentifier = cpb.create();
-        }
-        return props_PNIdentifier;
       case LanguageConceptSwitch.PetriNet:
         if (props_PetriNet == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
@@ -42,6 +36,12 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
           props_PetrinetElement = cpb.create();
         }
         return props_PetrinetElement;
+      case LanguageConceptSwitch.PetrinetIdentifier:
+        if (props_PetrinetIdentifier == null) {
+          ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
+          props_PetrinetIdentifier = cpb.create();
+        }
+        return props_PetrinetIdentifier;
       case LanguageConceptSwitch.Place:
         if (props_Place == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();

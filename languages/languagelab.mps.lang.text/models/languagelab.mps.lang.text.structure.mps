@@ -105,7 +105,7 @@
     <property role="19KtqR" value="true" />
     <property role="34LRSv" value="edit" />
     <property role="R4oN_" value="editor concept as language element" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="7HlnNJ953oQ" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
@@ -139,7 +139,7 @@
     <property role="EcuMT" value="8887114150066796091" />
     <property role="TrG5h" value="ParentSymbol" />
     <property role="R4oN_" value="basic type, to be extended by Symbol" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
   </node>
   <node concept="1TIwiD" id="7HlnNJ953oW">
     <property role="EcuMT" value="8887114150066796092" />
@@ -167,7 +167,7 @@
   <node concept="1TIwiD" id="7HlnNJ953p2">
     <property role="EcuMT" value="8887114150066796098" />
     <property role="TrG5h" value="Optional" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="7HlnNJ953p3" role="1TKVEi">
       <property role="IQ2ns" value="8887114150066796099" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
@@ -179,7 +179,7 @@
     <property role="EcuMT" value="8887114150066796101" />
     <property role="TrG5h" value="PropertyBinding" />
     <property role="R4oN_" value="Basic type. Can be replaced by composite bind or reference bind." />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
   </node>
   <node concept="1TIwiD" id="7HlnNJ953p6">
     <property role="EcuMT" value="8887114150066796102" />
@@ -201,7 +201,7 @@
   <node concept="1TIwiD" id="7HlnNJ953p9">
     <property role="EcuMT" value="8887114150066796105" />
     <property role="TrG5h" value="RightHandSide" />
-    <property role="R4oN_" value="can " />
+    <property role="R4oN_" value="can be expanded to a number of rhs children" />
     <ref role="1TJDcQ" node="7HlnNJ953oV" resolve="ParentSymbol" />
     <node concept="1TJgyj" id="7HlnNJ953pa" role="1TKVEi">
       <property role="IQ2ns" value="8887114150066796106" />
@@ -216,7 +216,7 @@
     <property role="TrG5h" value="Rule" />
     <property role="34LRSv" value="-&gt;" />
     <property role="R4oN_" value="vbind is either an elementbind or a constantbind" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="7HlnNJ953pd" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
@@ -262,7 +262,7 @@
     <property role="TrG5h" value="ValueBinding" />
     <property role="R4oN_" value="Basic type, to be extended with elementbind and constantbind" />
     <property role="R5$K7" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
   </node>
   <node concept="1TIwiD" id="7HlnNJct193">
     <property role="EcuMT" value="8887114150123409987" />

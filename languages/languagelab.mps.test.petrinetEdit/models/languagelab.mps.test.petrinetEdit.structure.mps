@@ -6,9 +6,8 @@
     <devkit ref="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
   </languages>
   <imports>
-    <import index="wg3n" ref="r:6b02a65f-43b6-4b49-890e-8f12f52f8787(languagelab.mps.test.petriEdit.structure)" />
+    <import index="4fqr" ref="r:fa713d69-08ea-4732-b1f2-cb07f9e103ef(jetbrains.mps.execution.util.structure)" />
     <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
-    <import index="4fqr" ref="r:fa713d69-08ea-4732-b1f2-cb07f9e103ef(jetbrains.mps.execution.util.structure)" implicit="true" />
   </imports>
   <registry>
     <language id="c72da2b9-7cce-4447-8389-f407dc1158b7" name="jetbrains.mps.lang.structure">
@@ -53,16 +52,16 @@
     <property role="TrG5h" value="PetriNet" />
     <property role="19KtqR" value="true" />
     <property role="R4oN_" value="Petrinet root element, can have any number of petrinet elements" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="7RBOOWUvx7y" role="1TKVEi">
       <property role="20lmBu" value="fLJjDmT/aggregation" />
       <property role="20kJfa" value="elements" />
       <property role="20lbJX" value="fLJekj5/_0__n" />
       <property role="IQ2ns" value="9072452311598371298" />
-      <ref role="20lvS9" to="wg3n:3yp7F__Vt9v" resolve="PetrinetElement" />
+      <ref role="20lvS9" node="6gJxTIdikak" resolve="PetrinetElement" />
     </node>
     <node concept="PrWs8" id="6gJxTIdik5a" role="PzmwI">
-      <ref role="PrY4T" node="6gJxTIdik5c" resolve="PNIdentifier" />
+      <ref role="PrY4T" node="6gJxTIdik5c" resolve="PetrinetIdentifier" />
     </node>
     <node concept="PrWs8" id="6gJxTIdik5f" role="PzmwI">
       <ref role="PrY4T" to="tpck:3fifI_xCcJN" resolve="ScopeProvider" />
@@ -73,7 +72,7 @@
   </node>
   <node concept="PlHQZ" id="6gJxTIdik5c">
     <property role="EcuMT" value="7219137829858263372" />
-    <property role="TrG5h" value="PNIdentifier" />
+    <property role="TrG5h" value="PetrinetIdentifier" />
     <node concept="PrWs8" id="6gJxTIdik5d" role="PrDN$">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
@@ -81,9 +80,9 @@
   <node concept="1TIwiD" id="6gJxTIdikak">
     <property role="EcuMT" value="7219137829858263700" />
     <property role="TrG5h" value="PetrinetElement" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="6gJxTIdikal" role="PzmwI">
-      <ref role="PrY4T" node="6gJxTIdik5c" resolve="PNIdentifier" />
+      <ref role="PrY4T" node="6gJxTIdik5c" resolve="PetrinetIdentifier" />
     </node>
   </node>
   <node concept="1TIwiD" id="6gJxTIdikan">
@@ -102,7 +101,7 @@
     <property role="EcuMT" value="7219137829858263706" />
     <property role="TrG5h" value="PlaceRef" />
     <property role="R4oN_" value="reference to a place, can only have one target reference" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="6gJxTIdikar" role="1TKVEi">
       <property role="IQ2ns" value="7219137829858263707" />
       <property role="20kJfa" value="target" />
@@ -120,14 +119,14 @@
       <property role="20kJfa" value="input" />
       <property role="20lbJX" value="fLJekj5/_0__n" />
       <property role="IQ2ns" value="2978539256781405328" />
-      <ref role="20lvS9" to="wg3n:2_lTqLe0JLV" resolve="PlaceRef" />
+      <ref role="20lvS9" node="6gJxTIdikaq" resolve="PlaceRef" />
     </node>
     <node concept="1TJgyj" id="2_lTqLe0JMi" role="1TKVEi">
       <property role="20lmBu" value="fLJjDmT/aggregation" />
       <property role="20kJfa" value="output" />
       <property role="20lbJX" value="fLJekj5/_0__n" />
       <property role="IQ2ns" value="2978539256781405330" />
-      <ref role="20lvS9" to="wg3n:2_lTqLe0JLV" resolve="PlaceRef" />
+      <ref role="20lvS9" node="6gJxTIdikaq" resolve="PlaceRef" />
     </node>
   </node>
 </model>

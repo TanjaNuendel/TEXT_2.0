@@ -13,9 +13,9 @@ import jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2;
 import jetbrains.mps.smodel.adapter.ids.PrimitiveTypeId;
 
 public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
-  /*package*/ final ConceptDescriptor myConceptPNIdentifier = createDescriptorForPNIdentifier();
   /*package*/ final ConceptDescriptor myConceptPetriNet = createDescriptorForPetriNet();
   /*package*/ final ConceptDescriptor myConceptPetrinetElement = createDescriptorForPetrinetElement();
+  /*package*/ final ConceptDescriptor myConceptPetrinetIdentifier = createDescriptorForPetrinetIdentifier();
   /*package*/ final ConceptDescriptor myConceptPlace = createDescriptorForPlace();
   /*package*/ final ConceptDescriptor myConceptPlaceRef = createDescriptorForPlaceRef();
   /*package*/ final ConceptDescriptor myConceptTransition = createDescriptorForTransition();
@@ -29,24 +29,23 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   @Override
   public void reportDependencies(jetbrains.mps.smodel.runtime.StructureAspectDescriptor.Dependencies deps) {
     deps.extendedLanguage(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, "jetbrains.mps.lang.core");
-    deps.aggregatedLanguage(0x5feeefa0e064b5cL, 0x8d9e1baa741e3ff8L, "languagelab.mps.test.petriEdit");
   }
 
   @Override
   public Collection<ConceptDescriptor> getDescriptors() {
-    return Arrays.asList(myConceptPNIdentifier, myConceptPetriNet, myConceptPetrinetElement, myConceptPlace, myConceptPlaceRef, myConceptTransition);
+    return Arrays.asList(myConceptPetriNet, myConceptPetrinetElement, myConceptPetrinetIdentifier, myConceptPlace, myConceptPlaceRef, myConceptTransition);
   }
 
   @Override
   @Nullable
   public ConceptDescriptor getDescriptor(SConceptId id) {
     switch (myIndexSwitch.index(id)) {
-      case LanguageConceptSwitch.PNIdentifier:
-        return myConceptPNIdentifier;
       case LanguageConceptSwitch.PetriNet:
         return myConceptPetriNet;
       case LanguageConceptSwitch.PetrinetElement:
         return myConceptPetrinetElement;
+      case LanguageConceptSwitch.PetrinetIdentifier:
+        return myConceptPetrinetIdentifier;
       case LanguageConceptSwitch.Place:
         return myConceptPlace;
       case LanguageConceptSwitch.PlaceRef:
@@ -63,14 +62,6 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     return myIndexSwitch.index(c);
   }
 
-  private static ConceptDescriptor createDescriptorForPNIdentifier() {
-    ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("languagelab.mps.test.petrinetEdit", "PNIdentifier", 0x7e0c4a2d8d374f16L, 0xac1d16d7be38f5eaL, 0x642f879b8d49414cL);
-    b.interface_();
-    b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
-    b.origin("r:06c89b7d-f025-4b09-af84-ac9e1baf5938(languagelab.mps.test.petrinetEdit.structure)/7219137829858263372");
-    b.version(3);
-    return b.create();
-  }
   private static ConceptDescriptor createDescriptorForPetriNet() {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("languagelab.mps.test.petrinetEdit", "PetriNet", 0x7e0c4a2d8d374f16L, 0xac1d16d7be38f5eaL, 0x642f879b8d494149L);
     b.class_(false, false, true);
@@ -79,7 +70,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.parent(0x4caf0310491e41f5L, 0x8a9b2006b3a94898L, 0x40c1a7cb987d20d5L);
     b.origin("r:06c89b7d-f025-4b09-af84-ac9e1baf5938(languagelab.mps.test.petrinetEdit.structure)/7219137829858263369");
     b.version(3);
-    b.aggregate("elements", 0x7de7d34f3a7e11e2L).target(0x5feeefa0e064b5cL, 0x8d9e1baa741e3ff8L, 0x38991eb965edd25fL).optional(true).ordered(true).multiple(true).origin("9072452311598371298").done();
+    b.aggregate("elements", 0x7de7d34f3a7e11e2L).target(0x7e0c4a2d8d374f16L, 0xac1d16d7be38f5eaL, 0x642f879b8d494294L).optional(true).ordered(true).multiple(true).origin("9072452311598371298").done();
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForPetrinetElement() {
@@ -87,6 +78,14 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.class_(false, false, false);
     b.parent(0x7e0c4a2d8d374f16L, 0xac1d16d7be38f5eaL, 0x642f879b8d49414cL);
     b.origin("r:06c89b7d-f025-4b09-af84-ac9e1baf5938(languagelab.mps.test.petrinetEdit.structure)/7219137829858263700");
+    b.version(3);
+    return b.create();
+  }
+  private static ConceptDescriptor createDescriptorForPetrinetIdentifier() {
+    ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("languagelab.mps.test.petrinetEdit", "PetrinetIdentifier", 0x7e0c4a2d8d374f16L, 0xac1d16d7be38f5eaL, 0x642f879b8d49414cL);
+    b.interface_();
+    b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
+    b.origin("r:06c89b7d-f025-4b09-af84-ac9e1baf5938(languagelab.mps.test.petrinetEdit.structure)/7219137829858263372");
     b.version(3);
     return b.create();
   }
@@ -116,8 +115,8 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.super_(0x7e0c4a2d8d374f16L, 0xac1d16d7be38f5eaL, 0x642f879b8d494294L);
     b.origin("r:06c89b7d-f025-4b09-af84-ac9e1baf5938(languagelab.mps.test.petrinetEdit.structure)/7219137829858263769");
     b.version(3);
-    b.aggregate("input", 0x2955e5ac4e02fc90L).target(0x5feeefa0e064b5cL, 0x8d9e1baa741e3ff8L, 0x2955e5ac4e02fc7bL).optional(true).ordered(true).multiple(true).origin("2978539256781405328").done();
-    b.aggregate("output", 0x2955e5ac4e02fc92L).target(0x5feeefa0e064b5cL, 0x8d9e1baa741e3ff8L, 0x2955e5ac4e02fc7bL).optional(true).ordered(true).multiple(true).origin("2978539256781405330").done();
+    b.aggregate("input", 0x2955e5ac4e02fc90L).target(0x7e0c4a2d8d374f16L, 0xac1d16d7be38f5eaL, 0x642f879b8d49429aL).optional(true).ordered(true).multiple(true).origin("2978539256781405328").done();
+    b.aggregate("output", 0x2955e5ac4e02fc92L).target(0x7e0c4a2d8d374f16L, 0xac1d16d7be38f5eaL, 0x642f879b8d49429aL).optional(true).ordered(true).multiple(true).origin("2978539256781405330").done();
     b.alias("transition");
     return b.create();
   }

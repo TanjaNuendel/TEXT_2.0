@@ -427,8 +427,8 @@
     <file name="ConceptPresentationAspectImpl.java">
       <node id="8887114150066796105" at="22,0,23,0" concept="2" trace="props_RightHandSide" />
       <node id="8887114150066796105" at="112,42,113,76" concept="5" />
-      <node id="8887114150066796105" at="113,76,114,32" concept="1" />
-      <node id="8887114150066796105" at="114,32,115,47" concept="1" />
+      <node id="8887114150066796105" at="113,76,114,71" concept="1" />
+      <node id="8887114150066796105" at="114,71,115,47" concept="1" />
       <node id="8887114150066796105" at="115,47,116,45" concept="1" />
       <node id="8887114150066796105" at="117,9,118,35" concept="6" />
       <node id="8887114150066796105" at="111,47,117,9" concept="3" />

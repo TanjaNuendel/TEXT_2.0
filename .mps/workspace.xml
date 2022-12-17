@@ -2,8 +2,198 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dccc07b0-6ceb-4071-b0a1-5d3a81919fd0" name="Changes" comment="add workspace">
+      <change afterPath="$PROJECT_DIR$/solutions/TEXT_Editor/source_gen.caches/TEXT_Editor/target_model/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/TEXT_Editor/source_gen.caches/TEXT_Editor/target_model/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/TEXT_Editor/source_gen/TEXT_Editor/target_model/trace.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/Language.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/Language.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/behavior/BehaviorAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/behavior/BehaviorAspectDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/behavior/Rule__BehaviorDescriptor$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/behavior/Rule__BehaviorDescriptor$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/behavior/Rule__BehaviorDescriptor$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/behavior/Rule__BehaviorDescriptor$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/behavior/Rule__BehaviorDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/behavior/Rule__BehaviorDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstantBinding_Constraints$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstantBinding_Constraints$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstantBinding_Constraints$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstantBinding_Constraints$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstantBinding_Constraints$Type_Property.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstantBinding_Constraints$Type_Property.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstantBinding_Constraints$Value_Property.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstantBinding_Constraints$Value_Property.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstantBinding_Constraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstantBinding_Constraints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstraintsAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ConstraintsAspectDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/Editor_Constraints$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/Editor_Constraints$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/Editor_Constraints$Name_Property.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/Editor_Constraints$Name_Property.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/Editor_Constraints$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/Editor_Constraints$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/Editor_Constraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/Editor_Constraints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ElementBinding_Constraints$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ElementBinding_Constraints$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ElementBinding_Constraints$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ElementBinding_Constraints$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ElementBinding_Constraints$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ElementBinding_Constraints$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ElementBinding_Constraints$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ElementBinding_Constraints$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ElementBinding_Constraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ElementBinding_Constraints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/NonTerminal_Constraints$1$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/NonTerminal_Constraints$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/NonTerminal_Constraints$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/NonTerminal_Constraints$CONCEPTS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/NonTerminal_Constraints$LINKS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/NonTerminal_Constraints$PROPS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/NonTerminal_Constraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ReferenceBinding_Constraints$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ReferenceBinding_Constraints$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ReferenceBinding_Constraints$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ReferenceBinding_Constraints$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ReferenceBinding_Constraints$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ReferenceBinding_Constraints$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ReferenceBinding_Constraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/ReferenceBinding_Constraints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/constraints/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Arbitrary_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Arbitrary_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Arbitrary_EditorBuilder_a$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Arbitrary_EditorBuilder_a$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Arbitrary_EditorBuilder_a$ntSingleRoleHandler_60g2tp_b0.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Arbitrary_EditorBuilder_a$ntSingleRoleHandler_60g2tp_b0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Arbitrary_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Arbitrary_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/CompositeBinding_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/CompositeBinding_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/CompositeBinding_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/CompositeBinding_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/CompositeBinding_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/CompositeBinding_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/CompositeBinding_EditorBuilder_a$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/CompositeBinding_EditorBuilder_a$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/CompositeBinding_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/CompositeBinding_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_EditorBuilder_a$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_EditorBuilder_a$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_EditorBuilder_a$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_EditorBuilder_a$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ConstantBinding_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/EditorAspectDescriptorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/EditorAspectDescriptorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$rulesListHandler_pc1dfj_a0c0.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$rulesListHandler_pc1dfj_a0c0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$startSingleRoleHandler_pc1dfj_b1a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a$startSingleRoleHandler_pc1dfj_b1a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Editor_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$Inline_Builder0$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$Inline_Builder0$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$Inline_Builder0.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$Inline_Builder0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ElementBinding_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$Inline_Builder0$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$Inline_Builder0$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$Inline_Builder0.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$Inline_Builder0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$bindingSingleRoleHandler_1138yp_b0.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a$bindingSingleRoleHandler_1138yp_b0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/NonTerminal_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Optional_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Optional_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Optional_EditorBuilder_a$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Optional_EditorBuilder_a$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Optional_EditorBuilder_a$ntSingleRoleHandler_eww49i_b0.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Optional_EditorBuilder_a$ntSingleRoleHandler_eww49i_b0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Optional_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Optional_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ReferenceBinding_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ReferenceBinding_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ReferenceBinding_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ReferenceBinding_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ReferenceBinding_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ReferenceBinding_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ReferenceBinding_EditorBuilder_a$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ReferenceBinding_EditorBuilder_a$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ReferenceBinding_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/ReferenceBinding_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RightHandSide_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RightHandSide_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RightHandSide_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RightHandSide_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RightHandSide_EditorBuilder_a$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RightHandSide_EditorBuilder_a$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RightHandSide_EditorBuilder_a$rhsListHandler_fwrh85_a0.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RightHandSide_EditorBuilder_a$rhsListHandler_fwrh85_a0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RightHandSide_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RightHandSide_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$Inline_Builder0$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$Inline_Builder0$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$Inline_Builder0.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$Inline_Builder0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/RuleReference_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$rhsListHandler_z0m96w_d0.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$rhsListHandler_z0m96w_d0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$vbindSingleRoleHandler_z0m96w_b0.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a$vbindSingleRoleHandler_z0m96w_b0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Rule_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Terminal_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Terminal_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Terminal_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Terminal_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Terminal_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Terminal_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Terminal_EditorBuilder_a$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Terminal_EditorBuilder_a$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Terminal_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/Terminal_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/WhiteSpace_Editor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/WhiteSpace_Editor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/WhiteSpace_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/WhiteSpace_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/WhiteSpace_EditorBuilder_a$CONCEPTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/WhiteSpace_EditorBuilder_a$CONCEPTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/WhiteSpace_EditorBuilder_a$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/WhiteSpace_EditorBuilder_a$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/WhiteSpace_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/editor/WhiteSpace_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/structure/ConceptPresentationAspectImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/structure/ConceptPresentationAspectImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/structure/EnumerationDescriptor_WhiteSpaceRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/structure/EnumerationDescriptor_WhiteSpaceRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/structure/LanguageConceptSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/structure/LanguageConceptSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/structure/StructureAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/structure/StructureAspectDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/classes_gen/languagelab/mps/lang/text/structure/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/source_gen.caches/deps.cp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/source_gen.caches/languagelab/mps/lang/text/generator/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/source_gen.caches/languagelab/mps/lang/text/generator/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/source_gen.caches/languagelab/mps/lang/text/generator/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/source_gen.caches/languagelab/mps/lang/text/generator/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/source_gen.caches/languagelab/mps/lang/text/generator/templates/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/source_gen.caches/languagelab/mps/lang/text/generator/templates/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/source_gen.caches/languagelab/mps/lang/text/generator/templates/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/source_gen.caches/languagelab/mps/lang/text/generator/templates/generated" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/templates/languagelab.mps.lang.text.generator.templates@generator.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/generator/templates/languagelab.mps.lang.text.generator.templates@generator.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.behavior.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.behavior.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.constraints.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.constraints.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.structure.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/deps.cp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/behavior/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/behavior/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/behavior/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/behavior/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/constraints/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/constraints/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/constraints/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/constraints/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/editor/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/editor/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/structure/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/structure/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/structure/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen.caches/languagelab/mps/lang/text/structure/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/behavior/Rule__BehaviorDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/behavior/Rule__BehaviorDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/constraints/ConstraintsAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/constraints/ConstraintsAspectDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/constraints/NonTerminal_Constraints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/constraints/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/constraints/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/constraints/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/constraints/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/structure/ConceptPresentationAspectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/structure/ConceptPresentationAspectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.lang.text/source_gen/languagelab/mps/lang/text/structure/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/Language.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/Language.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/constraints/ConstraintsAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/constraints/ConstraintsAspectDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/constraints/PNIdentifier_Constraints$CONCEPTS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/constraints/PNIdentifier_Constraints$Name_Property.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/constraints/PNIdentifier_Constraints$PROPS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/constraints/PNIdentifier_Constraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/constraints/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/constraints/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/constraints/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/constraints/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/structure/ConceptPresentationAspectImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/structure/ConceptPresentationAspectImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/structure/LanguageConceptSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/structure/LanguageConceptSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/structure/StructureAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/structure/StructureAspectDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/structure/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/classes_gen/languagelab/mps/test/petrinetEdit/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/generator/classes_gen/languagelab/mps/test/petrinetEditEdit/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/generator/classes_gen/languagelab/mps/test/petrinetEditEdit/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/generator/classes_gen/languagelab/mps/test/petrinetEditEdit/templates/QueriesGenerated.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/generator/classes_gen/languagelab/mps/test/petrinetEditEdit/templates/QueriesGenerated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/generator/source_gen.caches/deps.cp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/generator/source_gen.caches/languagelab/mps/test/petrinetEditEdit/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/generator/source_gen.caches/languagelab/mps/test/petrinetEditEdit/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/generator/source_gen.caches/languagelab/mps/test/petrinetEditEdit/templates/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/generator/source_gen.caches/languagelab/mps/test/petrinetEditEdit/templates/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/languagelab.mps.test.petrinetEdit.mpl" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/languagelab.mps.test.petrinetEdit.mpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/models/languagelab.mps.test.petrinetEdit.constraints.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/models/languagelab.mps.test.petrinetEdit.constraints.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/models/languagelab.mps.test.petrinetEdit.structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/models/languagelab.mps.test.petrinetEdit.structure.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/deps.cp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/constraints/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/constraints/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/constraints/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/constraints/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/structure/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/structure/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/structure/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen.caches/languagelab/mps/test/petrinetEdit/structure/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/Language.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/constraints/ConstraintsAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/constraints/ConstraintsAspectDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/constraints/PNIdentifier_Constraints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/constraints/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/constraints/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/constraints/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/constraints/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/structure/ConceptPresentationAspectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/structure/ConceptPresentationAspectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/structure/LanguageConceptSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/structure/LanguageConceptSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/structure/StructureAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/structure/StructureAspectDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/structure/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/languagelab.mps.test.petrinetEdit/source_gen/languagelab/mps/test/petrinetEdit/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/TEXT_Editor/TEXT_Editor.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/TEXT_Editor/TEXT_Editor.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/TEXT_Editor/models/TEXT_Editor.target_model.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/TEXT_Editor/models/TEXT_Editor.target_model.mps" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +206,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="f7e49e33-6bb8-4335-bd54-ab41db8a72f1/r:4e45c819-23a9-4b79-90cf-16fe7e7183df(TempModulef7e49e33-6bb8-4335-bd54-ab41db8a72f1/ConsoleModel_284302857850800)">
+            <model ref="762b3465-b27e-4c6d-a452-82ba712f970c/r:7fe78a99-9d83-46ed-b1ab-cd9d6265a1a0(TempModule762b3465-b27e-4c6d-a452-82ba712f970c/ConsoleModel_122034089566200)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -36,11 +226,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="Ol8pJv5E5n">
-                <node concept="3balQm" id="Ol8pJv5E5o" role="aymYE" />
-                <node concept="2Clz$F" id="Ol8pJv5E5p" role="aymYO" />
-                <node concept="2_V_lH" id="Ol8pJv5E5q" role="1PhJh3">
-                  <ref role="2_V_lI" node="Ol8pJv5E5p" resolve="CommandHolder" />
+              <node concept="aymSD" id="1natEMH3HGO">
+                <node concept="3balQm" id="1natEMH3HGP" role="aymYE" />
+                <node concept="2Clz$F" id="1natEMH3HGQ" role="aymYO" />
+                <node concept="2_V_lH" id="1natEMH3HGR" role="1PhJh3">
+                  <ref role="2_V_lI" node="1natEMH3HGQ" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -138,97 +328,13 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="languagelab.mps.lang.text.generator" />
+              <option name="myItemId" value="Modules Pool" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="68f9daf6-241c-4e5b-b7a2-b902430d169c" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="languagelab" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:5a58d700-006a-4999-95c3-2fb22a7721d7(languagelab.mps.test.petrinetEdit.runtime) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/languages/languagelab.mps.test.petrinetEdit/runtime/models/languagelab.mps.test.petrinetEdit.runtime.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="68f9daf6-241c-4e5b-b7a2-b902430d169c" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:196d8a42-2b02-4579-9264-88517b407831(languagelab.mps.lang.text.constraints) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.constraints.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:e370a96f-33fc-46f6-9458-c05a69120c38(languagelab.mps.lang.text.editor) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.editor.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6c71715b-e9fd-4c79-8904-2cf7ada421d0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
+              <option name="myItemId" value="TEXT_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -242,7 +348,49 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="68f9daf6-241c-4e5b-b7a2-b902430d169c" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7e0c4a2d-8d37-4f16-ac1d-16d7be38f5ea(languagelab.mps.test.petrinetEdit)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="languagelab.mps.test.petrinetEditEdit" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7e0c4a2d-8d37-4f16-ac1d-16d7be38f5ea(languagelab.mps.test.petrinetEdit)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="languagelab.mps.test.petrinetEditEdit" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="languagelab" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -256,27 +404,29 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
+              <option name="myItemId" value="TEXT_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
+              <option name="myItemId" value="7e0c4a2d-8d37-4f16-ac1d-16d7be38f5ea(languagelab.mps.test.petrinetEdit)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:e345bfe4-a7ce-41f2-aad2-23740a591142(languagelab.mps.lang.text.structure) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.structure.mps]" />
+              <option name="myItemId" value="languagelab.mps.test.petrinetEditEdit" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="languagelab" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:754d6119-0094-4fa2-b17c-5c91f266ce44(languagelab.mps.test.petrinetEditEdit.templates@generator) in IdeaFile[path: C:/Users/tnuen/Documents/Studium/- UiA 2022WS/IKT445 Generative Programming/MPSProjects/TEXT_2.0/languages/languagelab.mps.test.petrinetEdit/generator/templates/languagelab.mps.test.petrinetEditEdit.templates@generator.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
+              <option name="myItemId" value="TEXT_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -292,13 +442,67 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:528640cc-36f7-4876-85e7-e4c3be1d439e(languagelab.mps.lang.text.generator.templates@generator) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/languages/languagelab.mps.lang.text/generator/templates/languagelab.mps.lang.text.generator.templates@generator.mps]" />
+              <option name="myItemId" value="r:528640cc-36f7-4876-85e7-e4c3be1d439e(languagelab.mps.lang.text.generator.templates@generator) in IdeaFile[path: C:/Users/tnuen/Documents/Studium/- UiA 2022WS/IKT445 Generative Programming/MPSProjects/TEXT_2.0/languages/languagelab.mps.lang.text/generator/templates/languagelab.mps.lang.text.generator.templates@generator.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="68f9daf6-241c-4e5b-b7a2-b902430d169c" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="languagelab" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:5a58d700-006a-4999-95c3-2fb22a7721d7(languagelab.mps.test.petrinetEdit.runtime) in IdeaFile[path: C:/Users/tnuen/Documents/Studium/- UiA 2022WS/IKT445 Generative Programming/MPSProjects/TEXT_2.0/languages/languagelab.mps.test.petrinetEdit/runtime/models/languagelab.mps.test.petrinetEdit.runtime.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="6c71715b-e9fd-4c79-8904-2cf7ada421d0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7e0c4a2d-8d37-4f16-ac1d-16d7be38f5ea(languagelab.mps.test.petrinetEdit)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -316,7 +520,51 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
+              <option name="myItemId" value="49f25d1a-30e3-4596-878f-041e55f104be(TEXT_Editor@transient15)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="49f25d1a-30e3-4596-878f-041e55f104be/i:10000001(TEXT_Editor@transient15/TEXT_Editor.target_model@0) in null" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="49f25d1a-30e3-4596-878f-041e55f104be(TEXT_Editor@transient15)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7e0c4a2d-8d37-4f16-ac1d-16d7be38f5ea(languagelab.mps.test.petrinetEdit)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:06c89b7d-f025-4b09-af84-ac9e1baf5938(languagelab.mps.test.petrinetEdit.structure) in IdeaFile[path: C:/Users/tnuen/Documents/Studium/- UiA 2022WS/IKT445 Generative Programming/MPSProjects/TEXT_2.0/languages/languagelab.mps.test.petrinetEdit/models/languagelab.mps.test.petrinetEdit.structure.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="languagelab.mps.lang.text.generator" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEXT_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -328,47 +576,29 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:4fb7f325-8184-409a-ae78-83228678c2b9(TEXT_Editor.target_model) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/solutions/TEXT_Editor/models/TEXT_Editor.target_model.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:6a0d0ef5-f0cf-4179-9aa4-49df9c8e293a(languagelab.mps.lang.text.behavior) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/languages/languagelab.mps.lang.text/models/languagelab.mps.lang.text.behavior.mps]" />
+              <option name="myItemId" value="r:4fb7f325-8184-409a-ae78-83228678c2b9(TEXT_Editor.target_model) in IdeaFile[path: C:/Users/tnuen/Documents/Studium/- UiA 2022WS/IKT445 Generative Programming/MPSProjects/TEXT_2.0/solutions/TEXT_Editor/models/TEXT_Editor.target_model.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
           <SELECTED>
             <PATH_ELEMENT>
-              <option name="myItemId" value="text_2.0" />
+              <option name="myItemId" value="TEXT_2.0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="94b477d9-e67c-45fe-813c-26d61ae04a91(languagelab.mps.lang.text)" />
+              <option name="myItemId" value="6c71715b-e9fd-4c79-8904-2cf7ada421d0" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="languagelab.mps.lang.text.generator" />
+              <option name="myItemId" value="TEXT_Editor" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="languagelab" />
+              <option name="myItemId" value="r:4fb7f325-8184-409a-ae78-83228678c2b9(TEXT_Editor.target_model) in IdeaFile[path: C:/Users/tnuen/Documents/Studium/- UiA 2022WS/IKT445 Generative Programming/MPSProjects/TEXT_2.0/solutions/TEXT_Editor/models/TEXT_Editor.target_model.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:528640cc-36f7-4876-85e7-e4c3be1d439e(languagelab.mps.lang.text.generator.templates@generator) in IdeaFile[path: C:/Users/Sebastian/A-Work/Uni/master/ikt445/text_2.0/languages/languagelab.mps.lang.text/generator/templates/languagelab.mps.lang.text.generator.templates@generator.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="942696650351065878" />
+              <option name="myItemId" value="1570197904102300668" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -384,6 +614,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TEXTUAL" />
     <property name="settings.editor.selected.configurable" value="project.options.prefs.page" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
